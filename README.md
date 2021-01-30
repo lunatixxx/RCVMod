@@ -1,5 +1,5 @@
 # RCVMod 1.0
-**Versus config for Left 4 Dead 2
+**Versus config for Left 4 Dead 2**
 
 Competitive adjustements 
 -No outline for survivors and far items.
