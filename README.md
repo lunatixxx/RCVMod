@@ -44,11 +44,11 @@ Bugs and exploits fixes
 -Equalized alarm cars placement so now they will always spawn at the same place for each team.  
 -Various bugs and exploits fixes related to gascans.  
  
-/ Maps events\
+Maps events
 -c1m1 -> The elevator will come after 10 seconds and it alerts the horde, also there is an explosion just before the saferoom who offer a new strategy for infecteds.  
 -c8m3 -> If the gas station explode it will create a shortcut to climb the roof faster and it alerts the horde, but you can still take the elevator.  
  
-/ Misc \
+Misc 
 -Tickrate set to 60 for a better fluidity.  
 -Anti-cheat systems to protect the integrity of matches.  
 -Players having a VAC ban not older than three years on their profile can not join.  
