@@ -1,9 +1,9 @@
 # RCVMod 1.0
 **Versus config for Left 4 Dead 2**
 
-Competitive adjustements 
--No outline for survivors and far items.
--Tank and witch spawns rebalanced in all maps. 
+Competitive adjustements  
+-No outline for survivors and far items.  
+-Tank and witch spawns rebalanced in all maps.  
 -Shortened the timers of special infecteds.
 -Molotovs are rebalanced in favor of the tank.
 -Prevent special infecteds players to be bashed to death except the boomer and spitter.
