@@ -1,7 +1,7 @@
 # RCVMod 1.0
 **Versus config for Left 4 Dead 2** 
 
-What is needed: 
+What is needed:  
 -Sourcemod 1.11.0-git6625-linux  
 -Metamod 1.11.0-git1143-linux
 
