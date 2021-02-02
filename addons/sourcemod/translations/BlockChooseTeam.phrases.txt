@@ -1,0 +1,12 @@
+"Phrases"
+{
+    "Manual_Team_Change_Blocked"
+    {
+        "en"        "You can switch team with !infected or !survivor."
+        "fr"        "Vous pouvez changer d'équipe avec !infected ou !survivor."
+        "de"        "Sie konnen Teams mit wechseln !infected oder !survivor."
+        "es"        "Puedes cambiar de equipo con !infected o !survivor."
+        "it"        "Puoi cambiare squadra con !infected o !survivor."
+        "ru"        "сменить команду c !infected или !survivor."
+    }
+} 
