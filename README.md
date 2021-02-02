@@ -58,7 +58,7 @@ Misc
 -Bunny hopping is blocked because there is no reason leave this shit on.  
 -Saferoom door is locked until everyone loaded the map to avoid rushers.  
 -Friendly fire is disabled when survivors are still inside saferoom.  
--Team change menu is blocked to avoid exploits but you can use !infected !survivor !spec.  
+-Team change menu is blocked to avoid exploits but you can use !infected !survivor.  
 -Vocalizer anti flood to protect your ears from bleeding.  
 -Damage dealt to tank announcer in the chat.  
 -Disabled message of the day for a clean experience.  
