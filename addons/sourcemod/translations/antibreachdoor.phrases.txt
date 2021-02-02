@@ -1,0 +1,12 @@
+"Phrases"
+{
+    "Spawn_prevented"
+    {
+        "en"        "Spawn prevented while running too close of a locked saferoom!"
+        "fr"        "Apparition empechée car vous courriez trop près d'une pièce sécurisée vérouillée."
+        "de"        "Spawn verhindert, wahrend zu nahe an einem verschlossenen Saferoom gelaufen wird!"
+        "es"        "¡Engendro prevenido mientras corría demasiado cerca de una habitación segura cerrada!"
+        "it"        "Spawn impedito mentre corri troppo vicino a una camera di sicurezza chiusa!"
+        "ru"        "Предотвращено появление при приближении к запертой безопасной комнате во время бега!"
+    }
+} 
