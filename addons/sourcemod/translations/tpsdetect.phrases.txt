@@ -1,0 +1,12 @@
+"Phrases"
+{
+	"warning_tps"
+	{
+		"en"			"{green}[WARNING] Please type c_thirdpersonshoulder 0 in the console or you will be kicked shortly!"
+		"fr"			"{green}[AVERTISSEMENT] Veuillez taper c_thirdpersonshoulder 0 dans la console ou vous serez expulsé !"
+		"de"			"{green}[WARNUNG] Bitte geben Sie c_thirdpersonshoulder 0 in die Konsole ein, sonst werden Sie in Kürze getreten!"
+		"es"			"{green}[ADVERTENCIA] Escriba c_thirdpersonshoulder 0 en la consola o lo patearán en breve!"
+		"it"			"{green}[ATTENZIONE] Digita c_thirdpersonshoulder 0 nella console o sarai espulso a breve!"
+		"ru"			"{green}[ПРЕДУПРЕЖДЕНИЕ] Пожалуйста, введите c_thirdpersonshoulder 0 в консоли, иначе вас скоро выгонят!"
+	}
+}
