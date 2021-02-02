@@ -1,4 +1,4 @@
-# RCVMod 1.0
+# RCVMod 0.8
 **Versus config for Left 4 Dead 2** 
 
 What is needed:  
