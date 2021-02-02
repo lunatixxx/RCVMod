@@ -2,7 +2,7 @@
 **Versus config for Left 4 Dead 2** 
 
 What is needed:  
--Linux server.
+-Linux server (windows is not supported)  
 -Sourcemod (max 1.11.0-git6625-linux)  
 -Metamod (max 1.11.0-git1143-linux)  
 -Stripper (max 1.2.2-git129-linux)
