@@ -1,11 +1,14 @@
 # RCVMod 0.8
 **Versus config for Left 4 Dead 2** 
 
-What is needed:  
+Needed:  
 -Linux server (windows not officially supported)  
 -Sourcemod (max 1.11.0-git6625-linux)  
 -Metamod (max 1.11.0-git1143-linux)  
 -Stripper (max 1.2.2-git129-linux)
+
+Optional and untested:
+-L4DToolz (for extra slots)
 
 Competitive adjustements  
 -No outline for survivors and far items.  
