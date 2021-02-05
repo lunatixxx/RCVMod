@@ -1,16 +1,16 @@
 # Realism Competitive Vanilla 0.8
 **Versus config for Left 4 Dead 2** 
 
-Needed:  
+**Needed:**  
 -Linux server (windows not officially supported)  
 -Sourcemod (max 1.11.0-git6625-linux)  
 -Metamod (max 1.11.0-git1143-linux)  
 -Stripper (max 1.2.2-git129-linux)
 
-Optional and untested:  
+**Optional and untested:**  
 -L4DToolz (for extra slots)  
 
-Competitive adjustements  
+**Competitive adjustements**  
 -No outline for survivors and far items.  
 -Tank and witch spawns rebalanced in all maps.  
 -Shortened the timers of special infecteds.  
@@ -22,7 +22,7 @@ Competitive adjustements
 -Reduced the tiebreaker score from 25 to 5 points in case of an equality in order to limit the impact on the final score.  
 -Anti-camper measures that will trigger a panic event if survivors do not progress for a while.  
  
-Bugs and exploits fixes  
+**Bugs and exploits fixes**  
 -Exploits block and bugs fixed on all campaigns.  
 -Small bug fixes related to tickrate for pistols and gravity.  
 -Muted footsteps of ghosts who could be heard by survivors.  
@@ -53,11 +53,11 @@ Bugs and exploits fixes
 -Equalized alarm cars placement so now they will always spawn at the same place for each team.  
 -Various bugs and exploits fixes related to gascans.  
  
-Maps events  
+**Maps events** 
 -c1m1 -> The elevator will come after 10 seconds and it alerts the horde, also there is an explosion just before the saferoom who offer a new strategy for infecteds.  
 -c8m3 -> If the gas station explode it will create a shortcut to climb the roof faster and it alerts the horde, but you can still take the elevator.  
  
-Misc  
+**Misc**  
 -Bunny hopping is blocked because there is no reason leave this shit on.  
 -Friendly fire is disabled when survivors are still inside saferoom.  
 -Vocalizer anti flood to protect your ears from bleeding.  
