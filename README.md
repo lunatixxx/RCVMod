@@ -1,4 +1,4 @@
-# Realism Competitive Vanilla 0.8.6
+# Realism Competitive Vanilla 0.8.7
 **Versus config for Left 4 Dead 2** 
 
 **Needed:**  
