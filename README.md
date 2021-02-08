@@ -19,7 +19,7 @@
 -Prevents the director from giving the infected team a spitter while the tank is alive.  
 -Anti-camper measures that will trigger a panic event if survivors do not progress for a while.  
 -Extra medkits spawns are removed in all maps, except on finales where they can be placed differently to force a risk reward for survivors.  
--Rebalanced T2 weapons (soon)  
+-Rebalanced a little T2 weapons.  
 -Removed the minigun and mounted machine gun, grenade launcher and m60, various sniper rifles (awp/scout/military), incendiary and explosive ammo, gas cans, propane tank, oxygen tank and fireworks box, defibrillators, and all adrenalines.  
 -Reduced the tiebreaker score from 25 to 5 points in case of an equality in order to limit the impact on the final score.  
  
