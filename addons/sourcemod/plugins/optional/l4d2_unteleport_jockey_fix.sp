@@ -2,8 +2,6 @@
 #include <sdkhooks>
 #include <sdktools>
 #include <colors>
-#include <smac>
-#include <smac_stocks>
 
 char path[256];
 
@@ -170,7 +168,7 @@ public Action JockeyRideCheck_Timer(Handle timer, any victim)
 			char SteamID[32];
 			GetClientAuthId(victim, AuthId_Steam2, SteamID, sizeof(SteamID));
 			
-			SMAC_PrintAdminNotice("{olive}%N {green}and {red}jockey {green}were detected outside of map.", victim);
+			CPrintToChatAll("{olive}%N {green}and {red}jockey {green}were detected outside of map, fix atttempt.", victim);
 			LogToFile(path, "[Survivor: %N | STEAMID: %s] was detected outside of map.", victim, SteamID);
 			TeleportToPrevPos(victim);
 		}
