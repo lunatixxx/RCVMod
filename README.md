@@ -36,7 +36,6 @@
 -Block players from being staggered by jockeys and hunters for a time while getting up from a hunter pounce & charger pummel.  
 -Fixed jockey on survivor sliding slowly the ladder.  
 -Shoving does not slowdown the tank or charger anymore.  
--Kill fake chargers caused by a bug if a player join or leave.  
 -Prevent a bug between charger and jockey taking the same target.  
 -Fixed charger auto lock bug when passing control from player to bot.  
 -Patched invisible spits bug who was dealing abnormal damage.  
