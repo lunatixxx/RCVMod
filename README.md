@@ -25,8 +25,6 @@
  
 **Bugs and exploits fixes**  
 -Exploits block and bugs fixed on all campaigns.  
--Small bug fixes related to tickrate for pistols and gravity.  
--Muted footsteps of ghosts who could be heard by survivors.  
 -Fixed a bug who could duplicate an already existing survivor.  
 -Blocked the exploit when ghost infecteds managed to breach the door to spawn in a closed checkpoint and attack survivor supposed to be in safety.  
 -Cleaned end checkpoint saferooms of unwanted extra items.  
