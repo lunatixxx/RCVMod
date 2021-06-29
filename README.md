@@ -13,14 +13,14 @@
 **Competitive adjustements**  
 -No outline for survivors and far items.  
 -Tank and witch spawns rebalanced in all maps (tank off on c1m1 and c8m1).  
--Witch never kill in on hit on realism.  
+-Witch never kill in one hit on realism.  
 -Shortened the timers of special infecteds.  
 -Molotovs are rebalanced in favor of the tank.  
 -Prevent special infecteds players to be bashed to death except the boomer and spitter.  
 -Prevents the director from giving the infected team a spitter while the tank is alive.  
 -Anti-camper measures that will trigger a panic event if survivors do not progress for a while.  
--Rebalanced a little T2 weapons.  
--Removed the minigun and mounted machine gun, grenade launcher and m60, various sniper rifles (awp/scout/military), incendiary and explosive ammo, gas cans, propane tank, oxygen tank and fireworks box.
+-Removed  except the hunting rifle and also .  
+-Removed T2 weapons except hunting rifle (rebalanced), the minigun and mounted machine gun, grenade launcher and m60, adrenalines shot, incendiary and explosive ammo, gas cans, propane tank, oxygen tank and fireworks box.
  
 **Bugs and exploits fixes**  
 -Exploits block and bugs fixed on all campaigns.  
