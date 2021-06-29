@@ -12,7 +12,8 @@
 
 **Competitive adjustements**  
 -No outline for survivors and far items.  
--Tank and witch spawns rebalanced in all maps.  
+-Tank and witch spawns rebalanced in all maps (tank off on c1m1 and c8m1)
+-Witch never kill in on hit on realism.
 -Shortened the timers of special infecteds.  
 -Molotovs are rebalanced in favor of the tank.  
 -Prevent special infecteds players to be bashed to death except the boomer and spitter.  
