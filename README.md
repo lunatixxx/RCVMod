@@ -1,4 +1,4 @@
-# Fixed Competitive Vanilla 0.9.2 (outdated no time to to update here)
+# Fixed Competitive Vanilla 0.9.2 (outdated)
 **Versus config for Left 4 Dead 2** 
 
 **Needed:**  
@@ -18,10 +18,8 @@
 -Prevent special infecteds players to be bashed to death except the boomer and spitter.  
 -Prevents the director from giving the infected team a spitter while the tank is alive.  
 -Anti-camper measures that will trigger a panic event if survivors do not progress for a while.  
--Extra medkits spawns are removed in all maps, except on finales where they can be placed differently to force a risk reward for survivors.  
 -Rebalanced a little T2 weapons.  
--Removed the minigun and mounted machine gun, grenade launcher and m60, various sniper rifles (awp/scout/military), incendiary and explosive ammo, gas cans, propane tank, oxygen tank and fireworks box, defibrillators, and all adrenalines.  
--Reduced the tiebreaker score from 25 to 5 points in case of an equality in order to limit the impact on the final score.  
+-Removed the minigun and mounted machine gun, grenade launcher and m60, various sniper rifles (awp/scout/military), incendiary and explosive ammo, gas cans, propane tank, oxygen tank and fireworks box.
  
 **Bugs and exploits fixes**  
 -Exploits block and bugs fixed on all campaigns.  
@@ -29,7 +27,7 @@
 -Blocked the exploit when ghost infecteds managed to breach the door to spawn in a closed checkpoint and attack survivor supposed to be in safety.  
 -Cleaned end checkpoint saferooms of unwanted extra items.  
 -Tank will not be blocked anymore by survivors on ladders.  
--Frozen tank bug when a player join or leave finally fixed.  
+-Frozen tank bug when a player join or leave is fixed.  
 -Bugged doors will not resist to the tank punch.  
 -Block players from being staggered by jockeys and hunters for a time while getting up from a hunter pounce & charger pummel.  
 -Fixed jockey on survivor sliding slowly the ladder.  
@@ -44,8 +42,7 @@
 -Health boost glitch caused by water asphyxia fixed.  
 -Fixed free health exploit after being helped from hanging edge.  
 -Fixed incapped survivor protecting teammate from big fall damage.  
--Ladder climbing speed regulated by the government.  
--Restoration of the water slowdown like it should be.  
+-Ladder climbing speed regulated by the government.
 -Fixed too fast melee attack bug with survivors.  
 -Blocked being able to revive and use the chainsaw at same time.  
 -Equalized alarm cars placement so now they will always spawn at the same place for each team.  
