@@ -49,5 +49,5 @@
 -Various bugs and exploits fixes related to gascans.  
  
 **Maps events**  
--c1m1 -> The elevator will come after 10 seconds and it alerts the horde, also there is an explosion just before the saferoom who offer a new strategy for infecteds.  
+-c1m1 -> The elevator will come after a few seconds and it alerts the horde, also there is an explosion just before the saferoom who offer a new strategy for infecteds.  
 -c8m3 -> If the gas station explode it will create a shortcut to climb the roof faster and it alerts the horde, but you can still take the elevator.  
