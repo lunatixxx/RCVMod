@@ -11,7 +11,7 @@
 -L4DToolz (for extra slots)  
 
 **Competitive adjustements**  
--No outline for survivors and far items (for tournaments)  
+-No outline for survivors and far items (for tournaments).  
 -Tank and witch spawns rebalanced in all maps (tank off on c1m1 and c8m1).  
 -Shortened the timers of special infecteds.  
 -Molotovs are rebalanced in favor of the tank.  
