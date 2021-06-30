@@ -42,7 +42,7 @@
 -Health boost glitch caused by water asphyxia fixed.  
 -Fixed free health exploit after being helped from hanging edge.  
 -Fixed incapped survivor protecting teammate from big fall damage.  
--Ladder climbing speed regulated by the government.
+-Ladder climbing speed regulated by the government.  
 -Fixed too fast melee attack bug with survivors.  
 -Blocked being able to revive and use the chainsaw at same time.  
 -Equalized alarm cars placement so now they will always spawn at the same place for each team.  
