@@ -8,7 +8,7 @@
 -Stripper (max 1.2.2-git129-linux)
 
 **Optional and untested:**  
--L4DToolz (for extra slots)  
+-L4DToolz for extra slots (not recommended)  
 
 **Competitive adjustements**  
 -No outline for survivors and far items.
