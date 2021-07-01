@@ -18,7 +18,7 @@
 -Prevent special infecteds players to be bashed to death except the boomer and spitter.  
 -Prevents the director from giving the infected team a spitter while the tank is alive.  
 -Anti-camper measures that will trigger a panic event if survivors do not progress for a while.  
--Number of health items rebalanced. 
+-Number of health items rebalanced.  
 -Removed T2 weapons except hunting rifle (rebalanced), the minigun and mounted machine gun, grenade launcher and m60, adrenalines shot, incendiary and explosive ammo, gas cans, propane tank, oxygen tank and fireworks box.
  
 **Bugs and exploits fixes**  
