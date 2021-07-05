@@ -1,4 +1,4 @@
-# Fixed Competitive Vanilla 0.9.4 (outdated)
+# Fixed Competitive Vanilla 0.9.5
 **Versus config for Left 4 Dead 2** 
 
 **Needed:**  
