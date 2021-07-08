@@ -30,6 +30,7 @@
 -Frozen tank bug when a player join or leave is fixed.  
 -Bugged doors will not resist to the tank punch.  
 -Block players from being staggered by jockeys and hunters for a time while getting up from a hunter pounce & charger pummel.  
+-Fixed multiple double get up bug for survivors.  
 -Fixed jockey on survivor sliding slowly the ladder.  
 -Shoving does not slowdown the tank or charger anymore.  
 -Prevent a bug between charger and jockey taking the same target.  
