@@ -24,7 +24,7 @@
 **Bugs and exploits fixes**  
 -Exploits block and bugs fixed on all campaigns.  
 -Fixed a bug who could duplicate an already existing survivor.  
--Blocked exploit when ghost infecteds managed to breach the door to spawn in a closed checkpoint and attack survivor supposed to be in safety.  
+-Blocked exploit when ghost infecteds managed to breach door to spawn in a closed checkpoint to attack survivor supposed to be in safety.  
 -Cleaned end checkpoint saferooms of unwanted extra items.  
 -Tank will not be blocked anymore by survivors on ladders.  
 -Frozen tank bug when a player join or leave is fixed.  
